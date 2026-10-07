@@ -1,0 +1,3 @@
+dealNumber,active,featured,year,make,model,trim,msrp,discountPct,monthlyLoyalty,monthlyAllQualify,dueAtSigning,termMonths,milesPerYear,badges,finePrint,lastUpdated
+BMWE-056,TRUE,FALSE,2026,BMW,X3,xDrive 30i,54500,11.25,540,553,,39,10000,"LOYALTY,NEW",,2026-11-01
+MBW-064,TRUE,FALSE,2026,Mercedes-Benz,GLC 300,RWD,52000,,,229,3500,24,,"CONQUEST,DEMO","Conquest required: must own a 2020 or newer non-Mercedes-Benz.",2026-11-01
