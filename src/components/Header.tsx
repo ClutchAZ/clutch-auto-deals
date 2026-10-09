@@ -11,6 +11,7 @@ const NAV = [
   { href: "/deal-review", label: "Free deal review" },
   { href: "/sell-your-car", label: "Sell your car" },
   { href: "/about", label: "About" },
+  { href: "/contact", label: "Contact" },
 ];
 
 export function Header() {
